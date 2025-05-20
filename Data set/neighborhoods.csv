@@ -1,0 +1,16 @@
+id,name,population,type,x_coordinate,y_coordinate
+1,Downtown Cairo,250000,Business,31.2357,30.0444
+2,Zamalek,180000,Residential,31.2225,30.0573
+3,Maadi,230000,Residential,31.2504,29.9608
+4,Heliopolis,290000,Mixed,31.3297,30.0909
+5,Nasr City,320000,Mixed,31.3429,30.0510
+6,Giza,275000,Mixed,31.2089,30.0131
+7,6th of October,210000,Mixed,30.9753,29.9493
+8,New Cairo,260000,Residential,31.4721,30.0075
+9,Dokki,195000,Mixed,31.2126,30.0382
+10,Garden City,165000,Residential,31.2334,30.0297
+11,Shubra,450000,Residential,31.24,30.11
+12,Helwan,350000,Industrial,31.33,29.85
+13,New Administrative Capital,50000,Government,31.80,30.02
+14,Al Rehab,120000,Residential,31.49,30.06
+15,Sheikh Zayed,150000,Residential,30.94,30.01
